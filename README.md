@@ -1,6 +1,7 @@
-# Nyra Agent Framework
+# Miwa AI Framework
 
-[![Watch the Showcase Video](https://img.youtube.com/vi/Uz8djygCPCY/maxresdefault.jpg)](https://youtu.be/Uz8djygCPCY)
+![miwabanner](https://ibb.co/9TLRDK1)
+
 
 ## Prerequisites
 
@@ -30,7 +31,7 @@ docker compose up -d
 
 ### 4. Enter container
 ```bash
-docker exec -it nyra_agent_playground bash
+docker exec -it Miwa AI_agent_playground bash
 ```
 
 ### 5. Build agent 
